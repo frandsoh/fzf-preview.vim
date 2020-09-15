@@ -19,7 +19,7 @@
     "fzf"
   ],
   "engines": {
-    "coc": "^0.0.77"
+    "coc": "*"
   },
   "activationEvents": [
     "*"
